@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "208094415863",
+    "firebase_url": "https://psd2-c60e6.firebaseio.com",
+    "project_id": "psd2-c60e6",
+    "storage_bucket": "psd2-c60e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208094415863:android:1dd540cd6c5f1337",
+        "android_client_info": {
+          "package_name": "psd2.artajasa.net.psd2protectoria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208094415863-709di1cugset46lp7vichq86qe2l4uf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuohZ91gZ-4L7OUZuC0fNB_hH8jYMRyqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
